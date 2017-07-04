@@ -167,6 +167,10 @@ jasper:
   osx:
     homebrew:
       packages: [jasper]
+java:
+  osx:
+    homebrew:
+      packages: [java]
 libccd-dev:
   osx:
     homebrew:
